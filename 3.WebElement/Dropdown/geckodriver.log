@@ -1,0 +1,33 @@
+1670401673681	geckodriver	INFO	Listening on 127.0.0.1:63581
+1670401676735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileF7CqjR"
+1670401677995	Marionette	INFO	Marionette enabled
+1670401678010	Marionette	INFO	Listening on port 63603
+Read port: 63603
+WebDriver BiDi listening on ws://127.0.0.1:63582
+1670401678314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileF7CqjR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63582/devtools/browser/925d68cf-b5f5-4c4b-a28c-0053165c1587
+1670401745270	Marionette	INFO	Stopped listening on port 63603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670401757725	geckodriver	INFO	Listening on 127.0.0.1:63733
+1670401760822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileQv6I6P"
+1670401761733	Marionette	INFO	Marionette enabled
+1670401761742	Marionette	INFO	Listening on port 63761
+Read port: 63761
+WebDriver BiDi listening on ws://127.0.0.1:63734
+1670401762171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileQv6I6P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63734/devtools/browser/c661ded1-d20a-42f3-9cdb-163d025ceb86
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670403359569	Marionette	INFO	Stopped listening on port 63761
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofile7v5KAQ"
+1670401817443	Marionette	INFO	Marionette enabled
+1670401817454	Marionette	INFO	Listening on port 63901
+WebDriver BiDi listening on ws://127.0.0.1:63892
+Read port: 63901
+1670401817945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofile7v5KAQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63892/devtools/browser/7eb5ee6e-571a-49f1-929d-daa0ac15f02c
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670403360860	Marionette	INFO	Stopped listening on port 63901

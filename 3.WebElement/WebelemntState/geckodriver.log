@@ -703,3 +703,20 @@ DevTools listening on ws://127.0.0.1:61075/devtools/browser/e173eea9-4539-4c3c-8
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
+1670415710899	Marionette	INFO	Stopped listening on port 61088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670415727824	geckodriver	INFO	Listening on 127.0.0.1:49749
+1670415730862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilenvAIQG"
+1670415731438	Marionette	INFO	Marionette enabled
+1670415731448	Marionette	INFO	Listening on port 49759
+Read port: 49759
+WebDriver BiDi listening on ws://127.0.0.1:49750
+1670415731685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilenvAIQG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49750/devtools/browser/76be9ebf-bbbe-4aff-8b54-8d6af5945e58
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.opencart.com."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670416485901	Marionette	INFO	Stopped listening on port 49759
+!!! error running onStopped callback: TypeError: callback is not a function

@@ -1,0 +1,25 @@
+1670840784747	geckodriver	INFO	Listening on 127.0.0.1:50468
+1670840787836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileMGXyCc"
+1670840788426	Marionette	INFO	Marionette enabled
+1670840788435	Marionette	INFO	Listening on port 50479
+Read port: 50479
+WebDriver BiDi listening on ws://127.0.0.1:50469
+1670840788643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileMGXyCc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50469/devtools/browser/0b0059df-129a-45d2-ac27-59da158b2d18
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1670840797701	Marionette	INFO	Stopped listening on port 50479
+[Parent 9748, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:559
+1670840872517	geckodriver	INFO	Listening on 127.0.0.1:50511
+1670840875579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileOjqOLU"
+1670840876121	Marionette	INFO	Marionette enabled
+1670840876133	Marionette	INFO	Listening on port 50521
+Read port: 50521
+WebDriver BiDi listening on ws://127.0.0.1:50512
+1670840876365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileOjqOLU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50512/devtools/browser/10c4e404-0cde-42ac-82c0-767c5ec1d9d9
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1670840884899	Marionette	INFO	Stopped listening on port 50521

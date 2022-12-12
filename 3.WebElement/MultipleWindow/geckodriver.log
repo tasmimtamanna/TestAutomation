@@ -1,0 +1,134 @@
+1670782861562	geckodriver	INFO	Listening on 127.0.0.1:62326
+1670782864587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofile7oilHs"
+1670782865740	Marionette	INFO	Marionette enabled
+1670782865750	Marionette	INFO	Listening on port 62339
+Read port: 62339
+WebDriver BiDi listening on ws://127.0.0.1:62327
+1670782866014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofile7oilHs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62327/devtools/browser/ce681ca1-f0e0-4222-ac0d-99d66d855577
+1670782936292	Marionette	INFO	Stopped listening on port 62339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670782957865	geckodriver	INFO	Listening on 127.0.0.1:62463
+1670782960908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileuwHKcb"
+1670782961564	Marionette	INFO	Marionette enabled
+1670782961576	Marionette	INFO	Listening on port 62475
+Read port: 62475
+WebDriver BiDi listening on ws://127.0.0.1:62464
+1670782961825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileuwHKcb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62464/devtools/browser/0b2dd340-5dcf-4190-97b4-16cec6b65650
+1670783360328	Marionette	INFO	Stopped listening on port 62475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileryTKDt"
+1670783332801	Marionette	INFO	Marionette enabled
+1670783332812	Marionette	INFO	Listening on port 63183
+Read port: 63183
+WebDriver BiDi listening on ws://127.0.0.1:63170
+1670783333046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileryTKDt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63170/devtools/browser/17ff9e7a-a448-4e96-94ed-0f7039154f21
+1670783356687	Marionette	INFO	Stopped listening on port 63183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670783473724	geckodriver	INFO	Listening on 127.0.0.1:63382
+1670783476744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileRfs2Rw"
+1670783477349	Marionette	INFO	Marionette enabled
+1670783477361	Marionette	INFO	Listening on port 63394
+Read port: 63394
+WebDriver BiDi listening on ws://127.0.0.1:63383
+1670783477641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileRfs2Rw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63383/devtools/browser/476d0c6e-c5cd-4af4-9f55-d36580ca0e48
+1670783719368	Marionette	INFO	Stopped listening on port 63394
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileR13s14"
+1670783515181	Marionette	INFO	Marionette enabled
+1670783515192	Marionette	INFO	Listening on port 63462
+Read port: 63462
+WebDriver BiDi listening on ws://127.0.0.1:63453
+1670783515416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileR13s14\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63453/devtools/browser/86c30100-4257-47d4-873b-e2b5ffe6bf1d
+1670783718187	Marionette	INFO	Stopped listening on port 63462
+1670836378420	geckodriver	INFO	Listening on 127.0.0.1:62829
+1670836381526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileMa7hIU"
+1670836382981	Marionette	INFO	Marionette enabled
+1670836383004	Marionette	INFO	Listening on port 62852
+Read port: 62852
+WebDriver BiDi listening on ws://127.0.0.1:62830
+1670836383381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileMa7hIU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62830/devtools/browser/55608fec-e00a-4817-a355-03016b55f67d
+1670836403301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670836863358	Marionette	INFO	Stopped listening on port 62852
+0836448090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilevDdYy7"
+1670836448834	Marionette	INFO	Marionette enabled
+1670836448844	Marionette	INFO	Listening on port 63025
+Read port: 63025
+WebDriver BiDi listening on ws://127.0.0.1:63011
+1670836449033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilevDdYy7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63011/devtools/browser/9c67a2ae-1ced-49de-9abf-c6b84d728113
+JavaScript error: http://elementalselenium.com/assets/application.3735a3ac85cc71750c8962962f82c159.js, line 670: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: http://elementalselenium.com/assets/foundation.340873807cf59bea809c738a8a387285.js, line 2: TypeError: 
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670836865035	Marionette	INFO	Stopped listening on port 63025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+al\\Temp\\rust_mozprofilezERlrj"
+1670836805524	Marionette	INFO	Marionette enabled
+1670836805539	Marionette	INFO	Listening on port 63369
+Read port: 63369
+WebDriver BiDi listening on ws://127.0.0.1:63359
+1670836805729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilezERlrj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63359/devtools/browser/c0f63e84-ebd8-4293-8e3a-5f9741b4b82c
+JavaScript error: http://elementalselenium.com/assets/application.3735a3ac85cc71750c8962962f82c159.js, line 670: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: http://elementalselenium.com/assets/foundation.340873807cf59bea809c738a8a387285.js, line 2: TypeError: 
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670836866704	Marionette	INFO	Stopped listening on port 63369
+1670837083861	geckodriver	INFO	Listening on 127.0.0.1:63536
+1670837086958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilee3WvxU"
+1670837087846	Marionette	INFO	Marionette enabled
+1670837087854	Marionette	INFO	Listening on port 63546
+Read port: 63546
+WebDriver BiDi listening on ws://127.0.0.1:63537
+1670837088092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofilee3WvxU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63537/devtools/browser/33ac354a-ee8b-4c75-a911-a500e89a98db
+JavaScript error: http://elementalselenium.com/assets/application.3735a3ac85cc71750c8962962f82c159.js, line 670: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: http://elementalselenium.com/assets/foundation.340873807cf59bea809c738a8a387285.js, line 2: TypeError: 
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670839744508	Marionette	INFO	Stopped listening on port 63546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10564, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+ening on port 63704
+Read port: 63704
+WebDriver BiDi listening on ws://127.0.0.1:63695
+1670837254438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileoIRpbe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63695/devtools/browser/9998b331-d928-4ee9-b25d-c8cf5e8176a2
+JavaScript error: http://elementalselenium.com/assets/application.3735a3ac85cc71750c8962962f82c159.js, line 670: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: http://elementalselenium.com/assets/foundation.340873807cf59bea809c738a8a387285.js, line 2: TypeError: 
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1670839745863	Marionette	INFO	Stopped listening on port 63704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileBaoFXE"
+1670839429124	Marionette	INFO	Marionette enabled
+1670839429135	Marionette	INFO	Listening on port 49211
+Read port: 49211
+WebDriver BiDi listening on ws://127.0.0.1:49202
+1670839429366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tasmim\\AppData\\Local\\Temp\\rust_mozprofileBaoFXE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49202/devtools/browser/07005129-e0ea-4b6a-9148-4ae328e51585
+JavaScript error: http://elementalselenium.com/assets/application.3735a3ac85cc71750c8962962f82c159.js, line 670: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: http://elementalselenium.com/assets/foundation.340873807cf59bea809c738a8a387285.js, line 2: TypeError: 
+JavaScript warning: http://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1670839747205	Marionette	INFO	Stopped listening on port 49211
